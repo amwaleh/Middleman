@@ -1,7 +1,7 @@
-MIDDLEMAN
+## MIDDLEMAN
+[middleman Docs](https://middlemanapp.com/)
 
-
-INSTALL `ruby`
+install `ruby`
 
 install `gem install middleman`
 
